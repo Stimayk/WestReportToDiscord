@@ -2,6 +2,7 @@
 Modular report system for your CS:2 server - WestReportSystem
 
 **Sending reports to Discord**
+
 Uses [CS2-Discord-Utilities](https://github.com/NockyCZ/CS2-Discord-Utilities) Accordingly requires [customizations](https://github.com/NockyCZ/CS2-Discord-Utilities?tab=readme-ov-file#installation)
 
 The WRTD module itself is also customized
@@ -17,7 +18,7 @@ Configuration file:
 ```
 
 Installing the module:
-+ Download the archive from the releases
++ Download the archive from the [releases](https://github.com/Stimayk/WestReportToDiscord/releases)
 + Unzip to plugins
 + Customize CS2-Discord-Utilities and the module itself in /configs/plugins
 + Customize translations if necessary
